@@ -1,0 +1,23 @@
+{
+  "name": "copublish",
+  "version": "1.0.4608997",
+  "description": "copublish skills for your own Codex: write, schedule and manage your LinkedIn posts.",
+  "author": {
+    "name": "copublish"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "privacyPolicyUrl": "https://copublish.ai/privacy",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "copublish",
+    "shortDescription": "Write and post to LinkedIn",
+    "longDescription": "copublish skills for your own Codex: write, schedule and manage your LinkedIn posts.",
+    "developerName": "copublish",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

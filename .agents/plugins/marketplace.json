@@ -1,0 +1,20 @@
+{
+  "name": "copublish",
+  "interface": {
+    "displayName": "copublish"
+  },
+  "plugins": [
+    {
+      "name": "copublish",
+      "source": {
+        "source": "local",
+        "path": "./plugins/copublish"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
