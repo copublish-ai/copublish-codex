@@ -18,6 +18,5 @@
       "Interactive",
       "Write"
     ]
-  },
-  "mcpServers": "./.mcp.json"
+  }
 }
