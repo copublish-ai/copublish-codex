@@ -1,6 +1,6 @@
 {
   "name": "copublish",
-  "version": "1.0.16633797",
+  "version": "1.0.15727087",
   "description": "copublish skills for your own Codex: write, schedule and manage your LinkedIn posts.",
   "author": {
     "name": "copublish"
@@ -17,6 +17,8 @@
     "capabilities": [
       "Interactive",
       "Write"
-    ]
+    ],
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/logo.png"
   }
 }
